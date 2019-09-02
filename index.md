@@ -1,6 +1,6 @@
-# Matthew Wang's First CS193 Homework Assignment
+# Matthew Wang's First CS193 Homework 
 ---
-### What like about CS193:
+### What I like about CS193:
 - Information about computer science opportunities
 - Terminal lessons
 - Really chill teachers
